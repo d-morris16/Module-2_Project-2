@@ -1,0 +1,106 @@
+.header{
+	padding-bottom: 230px;
+}
+
+.dramatic{
+	padding-top: 90px;
+	padding-bottom: 90px;
+
+}
+
+.bg-image{
+	background-image: URL('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uMtEkAj6T3TsRjXlr6E5uU5pXhX0Vdr2pg&usqp=CAU');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+a.navbar-brand{
+	color: limegreen;
+	letter-spacing: 10px;
+	padding-left: 10px;
+}
+
+
+
+.btn-warning{
+	border-radius: 16px;
+	color: white;
+}
+
+
+.display-1{
+	color: white;
+}
+.synergize{
+	padding-bottom: 75px;
+	padding-top: 75px;
+}
+.bestclass{
+	padding-bottom: 90px;
+	padding-top: 90px;
+}
+
+
+.superior{
+	padding-bottom: 90px;
+	padding-top: 90px;
+}
+
+.btn-light{
+	border-radius: 16px;
+}
+
+
+
+.pics-1{
+	text-decoration: none;
+	color: white;
+}
+
+.pics-1:hover{
+	color: white;
+}
+
+.pics:hover, .pics:active{
+	font-size: 150%;
+	border-style: ridge;
+}
+
+.pics{
+	background-image: URL('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9jezjFrVnDtZASCHHpZ6TkQeT4aXWUFxmbEL4MoaQaLccwm87wjXB2eNxxHugyGJtJf4&usqp=CAU');
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 75px;
+	padding-top: 75px;
+}
+
+.sanity{
+	padding-bottom: 75px;
+	padding-top: 75px;
+}
+
+.contact{
+	padding-bottom: 75px;
+	padding-top: 75px;
+}
+
+.copyright{
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.icon-color{
+	color: limegreen;
+	font-size: 25px;
+}
+
+.icon-color-1{
+	font-size: 40px;
+	color: orange;
+}
+
+.icon-white{
+	color: white;
+	font-size: 40px;
+}
