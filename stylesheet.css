@@ -1,5 +1,5 @@
 .header{
-	padding-bottom: 230px;
+	padding-bottom: 125px;
 }
 
 .dramatic{
@@ -21,7 +21,10 @@ a.navbar-brand{
 	padding-left: 10px;
 }
 
-
+h4{
+	font-weight: normal;
+	font-size: 30px;
+}
 
 .btn-warning{
 	border-radius: 16px;
@@ -73,6 +76,7 @@ a.navbar-brand{
 	background-size: cover;
 	padding-bottom: 75px;
 	padding-top: 75px;
+	font-size: 35px;
 }
 
 .sanity{
